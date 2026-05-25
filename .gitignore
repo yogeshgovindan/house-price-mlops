@@ -29,3 +29,10 @@ Thumbs.db
 
 # MLflow
 mlruns/
+
+house_price.egg-info/
+src/house_price.egg-info/
+
+.idea/
+*.pyo
+*.pyd

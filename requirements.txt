@@ -1,0 +1,37 @@
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.13.0
+certifi==2026.5.20
+charset-normalizer==3.4.7
+click==8.4.1
+colorama==0.4.6
+dill==0.4.1
+fastapi==0.136.3
+h11==0.16.0
+# Editable Git install with no remote (house_price==0.0.1)
+#-e e:\house-price-mlops
+idna==3.16
+joblib==1.5.3
+kagglehub==1.0.1
+kagglesdk==0.1.23
+narwhals==2.21.2
+numpy==2.4.6
+packaging==26.2
+pandas==3.0.3
+protobuf==7.35.0
+pydantic==2.13.4
+pydantic_core==2.46.4
+python-dateutil==2.9.0.post0
+PyYAML==6.0.3
+requests==2.34.2
+scikit-learn==1.9.0rc1
+scipy==1.17.1
+six==1.17.0
+starlette==1.1.0
+threadpoolctl==3.6.0
+tqdm==4.67.3
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+tzdata==2026.2
+urllib3==2.7.0
+uvicorn==0.48.0
